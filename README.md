@@ -2,8 +2,9 @@
 
 Script Shell para sistemas operativos Unix / Linux
 
-[//]: # "K:\usuario\Downloads\abs-guide--Advanced Bash-Scripting Guide.pdf"
-
+<!---
+"K:\usuario\Downloads\abs-guide--Advanced Bash-Scripting Guide.pdf"
+-->
 When not to use shell scripts
 
 - Resource-intensive tasks, especially where speed is a factor (sorting, 
