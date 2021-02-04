@@ -2,7 +2,7 @@
 
 Script Shell para sistemas operativos Unix / Linux
 
-# K:\usuario\Downloads\abs-guide--Advanced Bash-Scripting Guide.pdf
+[//]: # K:\usuario\Downloads\abs-guide--Advanced Bash-Scripting Guide.pdf
 
 When not to use shell scripts
 
